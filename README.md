@@ -8,6 +8,6 @@ Welcome to **Skillyantra** – a platform dedicated to enhancing skills and know
 - **Career-Oriented Training** 🏆  
 - **User-Friendly Interface** 🌐  
 
-🔗 **Live Demo:** [Visit Skillyantr](www.skillyantra.com)  
+🔗 **Live Demo:** Visit Skillyantr [www.skillyantra.com]
 
 Join us on our mission to empower individuals with the right skills for success! 🚀
